@@ -1,5 +1,5 @@
 ## Hello
-This "project" was created to allow you to easily download entire collections from Steam. I was looking for a way to easily download entire collections from Steam, but couldn't find one. So I decided to develop my own method. A few minutes of work and we have the solution.
+This "project" was created to allow easy downloading of entire collections from Steam. I was looking for a way to easily download entire collections from Steam in a server environment, but couldn't find one. So I decided to develop my own method. A few minutes of work and we have a solution.
 
 I hope that using my scripts will prove to be faster than downloading each one manually.
 
