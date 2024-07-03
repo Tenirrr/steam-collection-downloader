@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Steam Collection Download List Generator
+// @name         Steam Collection Downloader
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0.0
 // @description  To make the world easier ❤
